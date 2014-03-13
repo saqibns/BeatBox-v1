@@ -15,7 +15,7 @@ About the Application
 ======================
 The idea of the program has been taken from the book, Head First: Java by Kathy Sierra and Bert Bates. The user may find many similarities between the idea given in the book and the version here. There are, however, subtle differences from the version given in the book.
 
-Some of the differences are:
+Some of the differences are: <br/>
 1. Menu Bar <br/>
 2. Clear Button <br/>
 3. Repeat Check box <br/>
